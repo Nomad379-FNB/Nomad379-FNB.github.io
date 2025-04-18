@@ -69,6 +69,6 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 # Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 title: Food Not Bombs Eureka
 description: How can we allow people to go hungry while wars rage across the world? Get involved today.
